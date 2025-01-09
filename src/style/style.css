@@ -1,0 +1,9 @@
+.ul__icon:hover{
+    /* background-color: rgb(226, 226, 226); */
+    border: 1px solid #0000002a;
+    box-shadow: 0 0 10px #00000049;
+}
+
+.baner__1{
+    background-image: url(./imgs/Rectangle\ 4.svg);
+}
