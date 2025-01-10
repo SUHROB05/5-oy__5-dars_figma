@@ -20,6 +20,6 @@
     border: 0.5px solid rgba(0, 0, 0, 0.358);
     border-radius: 20px;
 }
-.footer__btn{
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.195);
+.footer__btn:hover{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.195);
 }
