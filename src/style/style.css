@@ -6,4 +6,20 @@
 
 .baner__1{
     background-image: url(./imgs/Rectangle\ 4.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.text__card:hover{
+    border: 0.5px solid rgba(0, 0, 0, 0.304);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.297);
+}
+
+.footer__btn{
+    border: 0.5px solid rgba(0, 0, 0, 0.358);
+    border-radius: 20px;
+}
+.footer__btn{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.195);
 }
